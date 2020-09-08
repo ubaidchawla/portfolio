@@ -7764,7 +7764,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-5,
@@ -7772,10 +7772,10 @@ button.bg-dark:focus {
   padding-right: 3rem !important;
 }
 
-.pb-5,
+/* .pb-5,
 .py-5 {
   padding-bottom: 3rem !important;
-}
+} */
 
 .pl-5,
 .px-5 {
@@ -10007,7 +10007,10 @@ p {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 7rem 0;
+}
+.page-section1 {
+  padding-bottom: 1rem 0;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10024,7 +10027,10 @@ p {
 
 @media (min-width: 768px) {
   section {
-    padding: 9rem 0;
+    padding: 3rem 0;
+  }
+  .page-section1 {
+    padding-bottom: 1rem 0 !important;
   }
 }
 ::-moz-selection {
@@ -10562,4 +10568,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: #b99511; 
   padding: 5px 20px;
   border-radius: 4px;
+}
+.interest-container{
+  border: 1px solid;
+  border-color:#918f8a;
+  padding: 1% 2%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom:1%;
+  width:max-content;
+  border-radius:5%;
 }
