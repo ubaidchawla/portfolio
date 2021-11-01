@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Ubaid Chawla</title>
+
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/plugins/feature.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="assets/css/vendor/lightbox.css">
+    <link rel="stylesheet" href="assets/css/vendor/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/new.css">
+
+</head>
+
+<body>
+    <!-- Header area  Start-->
+    <header class="header-area header-style-two header--transparent color-black">
+        <div class="header-wrapper">
+            <div class="header-left d-flex align-items-center">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="assets/images/logo/logo-symbol-dark.png" alt="Digital Agency">
+                    </a>
+                </div>
+                <div class="ml--50">
+                    <nav class="mainmenunav">
+                        <ul class="mainmenu">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#testimonials">Testimonials</a></li>
+                            <li><a href="#portfolio">Portfolio</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="header-right">
+                <div class="social-share-inner d-none d-sm-block">
+                    <ul class="social-share social-style--2 color-black d-flex justify-content-start liststyle">
+                        <li><a href="https://www.facebook.com/hafizubaidchawla"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/ubaid-ur-rehman-469850ba"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="https://twitter.com/ubaid_chawla"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="https://github.com/ubaidchawla"><i class="fab fa-github"></i></a></li>
+                    </ul>
+                </div>
+                <div class="header-btn">
+                    <a class="btn-default btn-border btn-opacity" href="#contact">
+                        <span>Contact Now</span>
+                    </a>
+                </div>
+                <div class="humberger-menu d-block d-lg-none pl--20">
+                    <span class="menutrigger text-white">
+                        <i data-feather="menu"></i>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header area  End-->
+    <!-- Start Popup Menu Area  -->
+    <div class="rn-popup-mobile-menu">
+        <div class="inner">
+            <div class="popup-menu-top">
+                <div class="logo">
+                    <a href="index.html"><img src="assets/images/logo/logo-symbol-dark.png" alt="imroz"></a>
+                </div>
+                <div class="close-menu d-block d-lg-none">
+                    <span class="closeTrigger">
+                    <i data-feather="x"></i>
+                </span>
+                </div>
+            </div>
+            <ul class="mainmenu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Popup Menu Area  -->
+
+    <!-- start slider area -->
+    <div class="slider-wrapper">
+        <div class="slide slider_fixed_height slider-style-3 d-flex align-items-center justify-content-center bg_image bg_image--16 white-overlay-mobile">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="inner text-left">
+                            <h4 class="theme-gradient font-500">Freelance Developer</h4>
+                            <h1 class="title">Hello, I’m <span>Ubaid.</span></h1>
+                            <p class="description">I'm working as an expert, on outwardly complex, and innovatively capable, <br> responsive development tasks.</p>
+                            <div class="slide-btn">
+                                <a class="btn-default" href="./assets/pdf/resume.pdf" download="Ubaid's Resume">Download CV</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end slider area -->
+
+    <!-- About Area Start -->
+    <div id="about">
+        <div class="about-area ptb--120  bg_color--alternative" id="about">
+            <div class="about-wrapper">
+                <div class="container">
+                    <div class="row row--35">
+                        <div class="col-lg-5">
+                            <div class="thumbnail"><img class="w-100" src="assets/images/about/main-image2.png" alt="About Images"></div>
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="about-inner inner">
+                                <div class="section-title"><span class="subtitle">My About Details</span>
+                                    <h2 class="title mb--20">About Me</h2>
+                                    <p class="description mt_dec--20">A sound scholastic record, capacity to comprehend and test programming, working information on app development and a good understanding of web development technologies. I am working as a full stack developer to advance my insight in this area and use my skills.</p>
+                                </div>
+                                <div class="tabs-area mt--40">
+                                    <div class="tab-wrapper">
+                                        <ul class="tab-style--1 nav nav-tabs" role="tablist">
+                                            <li class="nav-item">
+                                                <a class="active" id="mainskill" data-toggle="tab" href="#rn-mainskill" role="tab" aria-controls="mainskill" aria-selected="true">Main skills</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a id="experience" data-toggle="tab" href="#rn-experience" role="tab" aria-controls="experience" aria-selected="false">Experience</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a id="education" data-toggle="tab" href="#rn-education" role="tab" aria-controls="education" aria-selected="false">Education</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a id="awards" data-toggle="tab" href="#rn-interests" role="tab" aria-controls="interests" aria-selected="false">Interests</a>
+                                            </li>
+                                        </ul>
+                                        <div class="tab-content">
+                                            <div class="tab-pane fade show active" id="rn-mainskill" role="tabpanel" aria-labelledby="mainskill">
+                                                <div class="single-tab-content">
+                                                    <div class="rn-progress-bar progress-bar--1 mt_dec--10">
+                                                        <div class="single-progress">
+                                                            <h6 class="title">Backend Development</h6>
+                                                            <div class="progress">
+                                                                <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
+                                                            </div><span class="label">95%</span>
+                                                        </div>
+                                                        <div class="single-progress">
+                                                            <h6 class="title">Frontend Development</h6>
+                                                            <div class="progress">
+                                                                <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay=".4s" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
+                                                            </div><span class="label">85%</span>
+                                                        </div>
+                                                        <div class="single-progress">
+                                                            <h6 class="title">Third Party App/Bot Development</h6>
+                                                            <div class="progress">
+                                                                <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div>
+                                                            </div><span class="label">75%</span>
+                                                        </div>
+                                                        <div class="single-progress">
+                                                            <h6 class="title">Server Management</h6>
+                                                            <div class="progress">
+                                                                <div role="progressbar" class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".6s" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div>
+                                                            </div><span class="label">80%</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="tab-pane fade" id="rn-interests" role="tabpanel" aria-labelledby="interests">
+                                                <div class="single-tab-content">
+                                                    <ul>
+                                                        <li>Cricket</li>
+                                                        <li>Tennis</li>
+                                                        <li>Urdu Poetry</li>
+                                                        <li>Artificial Intelligence</li>
+                                                        <li>Cyber Security</li>
+                                                        <li>Block Chain</li>
+                                                        <li>Reading</li>
+                                                        <li>Squash</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                            <div class="tab-pane fade" id="rn-experience" role="tabpanel" aria-labelledby="experience">
+                                                <div class="single-tab-content">
+                                                    <ul>
+                                                        <li><a href="">Top Rated Freelancer
+                                                                <span> -
+                                                                    Upwork</span></a> October 2020 -
+                                                            Current</li>
+                                                        <li><a href="">Full Stack Developer
+                                                                <span> -
+                                                                    DevZone IT</span></a> July 2020 - October 2020</li>
+                                                        <li><a href=""> Full Stack Developer
+                                                                <span> - GIKI Web Team
+                                                                </span></a>October 2018 - June 2020</li>
+                                                        <li><a href="">Full Stack Development Intern<span> - Pak Servers
+                                                            </span></a>July 2019 - August 2019</li>
+                                                        <li><a href="">Frontend Development Intern<span> - Creatrixe Software
+                                                                </span></a>July 2018 - August 2018</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                            <div class="tab-pane fade" id="rn-education" role="tabpanel" aria-labelledby="education">
+                                                <div class="single-tab-content">
+                                                    <ul>
+                                                        <li><a href="">Bachelors in Computer Sciences<span>
+                                                                    - Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, KPK, Pakistan
+                                                                </span></a> June 2020
+                                                        </li>
+                                                    </ul>
+                                                    <br>
+                                                    <p class="description mt_dec--20">Starting as a mediocre student and being able to adjust to semester system was never easy. But by the end of freshman year I learned alot. Transformed my self to a good student along with some basic experience of web development before starting my sophomore year. Ended the degree on a high with the tag of being a good Student and an experienced Web Developer.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About Area End -->
+
+    <!-- Start Brand Area -->
+    <div class="rn-brand-area ptb--120 bg_color--main iframe-container" id="testimonials">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center mb--25 mb_sm--0">
+                        <h2 class="title">Clients Feedback For Me</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1 mt--30">
+                    <div class="thumbnail position-relative">
+                        <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/8ddb81d33cb549cf8184bb6ef0de9293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Brand Area -->
+
+    <!-- about area Start -->
+    <div class="rn-about-area ptb--120 bg_color--alternative">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center mb--25 mb_sm--0">
+                        <span class="subtitle">More Feedback</span>
+                    </div>
+                </div>
+            </div>
+            <div id="demo" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="carousel-caption">
+                            <p>"Great job on Wordpress based landing page with customizations. Will hire again."</p> 
+                            <div id="image-caption">Paul Metzger, Fox Chapel Publishing</div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
+                            <p>"Ubaid was diligent in understanding the tasks at hand and communicated wisely when asking for more information and approval. Ubaid created two different HTML timelines with key ingredients including hover over effects, and automatic spacing. The task was completed on schedule without error and the final product was what we envisioned. I would recommend you hire Ubaid for your next job and will be reaching out myself for future tasks."</p> 
+                            <div id="image-caption">Parker Miller, Stone Claims Group</div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
+                            <p>"Knowledgeable, passionate, experience developer."</p> 
+                            <div id="image-caption">Ahmed Faisal Islam, GetMeHired Inc</div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
+                            <p>"Great partner to have on your team. Understands business requirements well and uses his technical expertise to implement/integrate appropriately."</p> 
+                            <div id="image-caption">Prince De</div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="carousel-caption">
+                            <p>"Highly recommended! Understood the requirements very well. Delivered quality work. Looking forward to working on the next project."</p> 
+                            <div id="image-caption">Gateri Kinuthia, Simple Alliance</div>
+                        </div>
+                    </div>
+                </div> <a class="carousel-control-prev" href="#demo" data-slide="prev"> <i class='fas fa-arrow-left carousel-arrow '></i> </a> <a class="carousel-control-next" href="#demo" data-slide="next"> <i class='fas fa-arrow-right carousel-arrow'></i> </a>
+            </div>
+        </div>
+    </div>
+    <!-- about area End -->
+
+    <!-- Start Portfolio Area -->
+    <div class="portfolio-area ptb--60 bg_color--main" id="portfolio">
+        <div class="portfolio-sacousel-inner mb--55 mb_sm--0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-title text-center mb--30 mb_sm--0">
+                            <span class="subtitle">Our project</span>
+                            <h2 class="title">Some of My Recent Works</h2>
+                            <p class="description">There are many variations of passages of Lorem Ipsum available, <br> but the majority have suffered alteration.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="https://getmehired.co/interviewprep"><img src="assets/images/portfolio/getmehired.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+        
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="https://bambu.co/solutions/asset-management"><img src="assets/images/portfolio/bambu.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="https://foxchapelpublishing.com/news/chili/"><img src="assets/images/portfolio/chili.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="http://linnasmart.com/"><img src="assets/images/portfolio/linnasmart.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="http://sunexsolar.com.pk/"><img src="assets/images/portfolio/sunexsolar.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12 content">
+                        <div class="scrolling-image mt--40">
+                            <div class="fl-module-content">
+                                    <a href="https://roadtrust.ca/"><img src="assets/images/portfolio/roadtrust.png"></a>
+                            </div>
+                        </div>    
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="view-more-btn mt--60 mt_sm--30 text-center">
+                            <a class="btn-default" data-toggle="modal" data-target="#projects"><span>View More Projects</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Portfolio Area -->
+
+    <!-- Hire Me Area Start -->
+    <div class="blog-comment-form ptb--120 bg_color--alternative" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner">
+                        <div class="section-title"><span class="subtitle">Let's Connect</span>
+                            <h2 class="title">Submit a Query</h2>
+                            <div class="im_address_inner">
+                                <div class="im_address">
+                                    <span>Call Me:</span>
+                                    <a class="link im-hover" href="tel:+923247648950">+92 (324) 764 8950</a>
+                                </div>
+                                <div class="im_address mt--5">
+                                    <span>Contact Email:</span>
+                                    <a class="link im-hover" href="mailto:ubaid@chawla.systems">ubaid@chawla.systems</a>
+                                </div>
+                            </div>
+                        </div>
+                        <form class="mt--40" action="mail.php" method="POST">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-12">
+                                    <div class="rnform-group"><input type="text" placeholder="Name" name="contact-name"></div>
+                                    <div class="rnform-group"><input type="email" placeholder="Email" name="contact-email"></div>
+                                    <div class="rnform-group"><input type="text" placeholder="Phone" name="contact-phone"></div>
+                                </div>
+                                <div class="col-lg-6 col-md-12 col-12">
+                                    <div class="rnform-group"><textarea placeholder="Comment" name="contact-message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    
+                                    <div class="blog-btn mt--30"><a class="btn-default" type="submit"><span>SUBMIT
+                                                </span></a></div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hire Me Area End-->
+
+    <div class="footer-style-2 ptb--30 bg_color--6">
+        <div class="wrapper plr--50 plr_sm--20">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="inner">
+                        <div class="logo text-center text-sm-left mb_sm--20"><a href="index.html"><img src="assets/images/logo/logo-light.png" alt="Logo images"></a></div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="inner text-center">
+                        <ul class="social-share rn-lg-size d-flex justify-content-center liststyle">
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                    <div class="inner text-lg-right text-center mt_md--20 mt_sm--20">
+                        <div class="text">
+                            <p>Copyright © 2021 Chawla Systems. All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Start Back To Top Start -->
+    <div class="backto-top">
+        <div>
+            <i data-feather="chevron-up"></i>
+        </div>
+    </div>
+
+    <!-- modal view -->
+    <div class="modal fade" id="projects" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+          <div class="modal-content" id="style-2">
+            <div class="modal-header border-bottom-0">
+              <h5 class="modal-title" id="exampleModalLabel">More Projects</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="container grid-container list-view">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">IDS Using Artificial Intelligence (04/2019 - 05/2020)</h5>
+                        <p class="card-text">An approach to replace rule base security with Intelligent security. Admin Panel was Developed Using MERN Stack.</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/FYP" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Denoising Foggy Images (03/2019 - 04/2019)</h5>
+                        <p class="card-text">Artificial Intelligence Project Deep Convolutional Neural Network used For Semester Project</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/Denoising-Foggy-Images" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Job Portal (05/2020 - 06/2020)</h5>
+                        <p class="card-text">Using Laravel as MVC framework. Bootstrap and jQuery for frontend Development.</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/job-portal" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Doctor Appointment System (10/2018 - 11/2018)</h5>
+                        <p class="card-text">Web app using PHP,Bootstrap and Android App using Android Studio</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/Online-Doctor-Appointment-System" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Library Management System (03/2018 - 04/2018)</h5>
+                        <p class="card-text">Using PHP and MySQL this Semester Project. CSS and Bootstrap were used for frontend.</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/Library" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Clustering by Density (03/2017 - 04/2017)</h5>
+                        <p class="card-text">Making Clusters of the data using data structure (Graphs) in 3rd Semester</p>
+                        <a class="btn-git" href="https://github.com/ubaidchawla/Clustering" ><span>Git Repo</span></a>
+                    </div>
+                </div>
+                
+              </div>
+          </div>
+        </div>
+      </div>
+    <!-- Start Back To Top End -->
+    <!-- js  
+======================================-->
+    <!-- modernizer JS -->
+    <script src="assets/js/vendor/modernizer.min.js"></script>
+    <!-- jquery JS -->
+    <script src="assets/js/vendor/jquery.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+    <script src="assets/js/vendor/avoid-console.js"></script>
+    <script src="assets/js/vendor/waypoint.js"></script>
+    <script src="assets/js/vendor/wow.js"></script>
+    <script src="assets/js/vendor/feather.js"></script>
+    <script src="assets/js/vendor/slick.min.js"></script>
+    <script src="assets/js/vendor/counterup.js"></script>
+    <script src="assets/js/vendor/video.js"></script>
+    <script src="assets/js/vendor/masonry.js"></script>
+    <script src="assets/js/vendor/lightbox.js"></script>
+    <script src="assets/js/vendor/particles.js"></script>
+
+    <!-- main JS -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
