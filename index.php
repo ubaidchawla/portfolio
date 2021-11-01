@@ -5,20 +5,16 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Ubaid Chawla</title>
+    <title>Ubaid Ur Rehman</title>
 
     <meta name="robots" content="noindex, follow" />
-    <meta name="description" content="">
+    <meta name="description" content="I'm working as an expert, on outwardly complex, and innovatively capable, responsive development tasks.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
 
     <!-- CSS Style -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/feature.css">
-    <link rel="stylesheet" href="assets/css/vendor/slick.css">
-    <link rel="stylesheet" href="assets/css/vendor/slick-theme.css">
-    <link rel="stylesheet" href="assets/css/vendor/lightbox.css">
     <link rel="stylesheet" href="assets/css/vendor/fontawesome.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/new.css">
@@ -454,12 +450,6 @@
             </div>
         </div>
     </div>
-    <!-- Start Back To Top Start -->
-    <div class="backto-top">
-        <div>
-            <i data-feather="chevron-up"></i>
-        </div>
-    </div>
 
     <!-- modal view -->
     <div class="modal fade" id="projects" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -520,26 +510,12 @@
           </div>
         </div>
       </div>
-    <!-- Start Back To Top End -->
-    <!-- js  
-======================================-->
-    <!-- modernizer JS -->
-    <script src="assets/js/vendor/modernizer.min.js"></script>
-    <!-- jquery JS -->
+
     <script src="assets/js/vendor/jquery.js"></script>
     <!-- Bootstrap JS -->
     <script src="assets/js/vendor/bootstrap.min.js"></script>
-
-    <script src="assets/js/vendor/avoid-console.js"></script>
-    <script src="assets/js/vendor/waypoint.js"></script>
-    <script src="assets/js/vendor/wow.js"></script>
-    <script src="assets/js/vendor/feather.js"></script>
-    <script src="assets/js/vendor/slick.min.js"></script>
-    <script src="assets/js/vendor/counterup.js"></script>
     <script src="assets/js/vendor/video.js"></script>
-    <script src="assets/js/vendor/masonry.js"></script>
-    <script src="assets/js/vendor/lightbox.js"></script>
-    <script src="assets/js/vendor/particles.js"></script>
+
 
     <!-- main JS -->
     <script src="assets/js/main.js"></script>
