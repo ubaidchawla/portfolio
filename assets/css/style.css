@@ -10946,7 +10946,7 @@ ul.tab-style--1 {
       padding-bottom: 14px; } }
   ul.tab-style--1 li.nav-item a {
     cursor: pointer;
-    padding: .83333em 47px;
+    padding: .83333em 43px;
     margin: -1px -2px -1px;
     border-radius: 50em;
     font-size: .88889em;
@@ -10967,6 +10967,9 @@ ul.tab-style--1 {
     @media only screen and (max-width: 767px) {
       ul.tab-style--1 li.nav-item a {
         padding: .83333em 20px; } }
+    @media only screen and (max-width: 991px) {
+      .img-display {
+        display: none; } }
     ul.tab-style--1 li.nav-item a.active {
       background-color: #0CB6F2;
       color: #ffffff; }
@@ -13135,7 +13138,7 @@ i.carousel-arrow {
 
 .scrolling-image .fl-module-content{
   overflow: hidden;
-  height: 532px; 
+  height: 432px; 
   border-radius: 8px;
 }
 
