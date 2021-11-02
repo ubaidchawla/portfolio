@@ -10982,19 +10982,22 @@ ul.tab-style--1 {
     font-size: 20px;
     line-height: inherit;
     margin-bottom: 10px;
-    font-weight: 300; }
-    #rn-interests .single-tab-content ul li::before {
-      content: "\00BB";
-      font-size: 23px;
-      margin-right: 2%;
-      color: var(--color-primary);
-    }
-    .single-tab-content ul li a {
-      font-weight: 500;
-      display: block;
-      color: var(--color-primary); }
-      .single-tab-content ul li a span {
-        font-weight: 300; }
+    font-weight: 300; 
+  }
+  #rn-interests .single-tab-content ul li::before {
+    content: "\00BB";
+    font-size: 23px;
+    margin-right: 2%;
+    color: var(--color-primary);
+  }
+  .single-tab-content ul li span.a {
+    font-weight: 500;
+    display: block;
+    color: var(--color-primary); 
+  }
+  .single-tab-content ul li a span {
+    font-weight: 300; 
+  }
 
 .accodion-style--1 .rn-card {
   border: none !important;
