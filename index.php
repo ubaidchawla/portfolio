@@ -11,14 +11,13 @@
     <meta name="description" content="I'm working as an expert, on outwardly complex, and innovatively capable, responsive development tasks.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
     <!-- CSS Style -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/vendor/fontawesome.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/new.css">
-
 </head>
 
 <body>
@@ -28,7 +27,7 @@
             <div class="header-left d-flex align-items-center">
                 <div class="logo">
                     <a href="index.html">
-                        <img src="assets/images/logo/logo-symbol-dark.png" alt="Digital Agency">
+                        <img src="assets/images/logo/logo.png" alt="Digital Agency">
                     </a>
                 </div>
                 <div class="ml--50">
@@ -427,7 +426,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="inner">
-                        <div class="logo text-center text-sm-left mb_sm--20"><a href="index.html"><img src="assets/images/logo/logo-light.png" alt="Logo images"></a></div>
+                        <div class="logo text-center text-sm-left mb_sm--20"><a href="index.html"><img src="assets/images/logo/logo.png" alt="Logo images"></a></div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
