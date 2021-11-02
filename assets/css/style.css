@@ -9648,7 +9648,7 @@ Slider Default Style
       font-size: 13px;
       margin-bottom: 10px; } }
 
-.slide.slider-style-3 .inner h1.title {
+.slide.slider-style-3 .inner h1.title span {
   color: #0CB6F2;
   font-size: 56px;
   font-weight: 900;
@@ -9657,19 +9657,19 @@ Slider Default Style
   text-transform: inherit;
   width: 70%; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .slide.slider-style-3 .inner h1.title {
+    .slide.slider-style-3 .inner h1.title span {
       font-size: 70px; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .slide.slider-style-3 .inner h1.title {
+    .slide.slider-style-3 .inner h1.title span{
       font-size: 60px;
       line-height: 77px;
       width: 85%; } }
   @media only screen and (max-width: 767px) {
-    .slide.slider-style-3 .inner h1.title {
+    .slide.slider-style-3 .inner h1.title span {
       font-size: 42px;
       line-height: 57px;
       width: 100%; } }
-  .slide.slider-style-3 .inner h1.title span {
+  .slide.slider-style-3 .inner h1.title span.green {
     color: var(--color-primary); }
 
 .slide.slider-style-3 .inner .description {
@@ -13154,6 +13154,7 @@ i.carousel-arrow {
 
 .card-title{
   color: #d2ef2b !important;
+  font-size: 18px !important;
 }
 .list-view .row > [class*=col-] {
   max-width: 100%;
@@ -13180,6 +13181,10 @@ i.carousel-arrow {
 .modal-header button span {
   color: #0CB6F2 !important;
 }
+.modal-title{
+  font-size: 18px !important;
+}
+
 .modal-content{
   height: 60vh;
   overflow-y: auto;
@@ -13210,4 +13215,8 @@ background-color: #1B4759;
 border-radius: 10px;
 -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 background-color: #6497ac;
+}
+
+.work-title{
+  font-size: 24px !important;
 }
