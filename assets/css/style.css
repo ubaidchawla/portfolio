@@ -7352,7 +7352,7 @@ img.react-parallax-bgimage {
       padding: 7px 16px; } }
 
 .header-area.color-black .humberger-menu span.text-white {
-  color: var(--color-heading) !important; }
+  color: #6497ac !important; }
 
 .header-area.logoresize .logo a img {
   height: 58px;
@@ -7519,6 +7519,11 @@ img.react-parallax-bgimage {
   .header-area .header-wrapper .mainmenunav ul.mainmenu li a {
     color: var(--color-heading); } }
 
+@media only screen and (max-width: 767px) {
+  .header-right{
+    margin-left: -15px; } 
+  }
+
 .header-area .header-wrapper .close-menu {
   position: fixed;
   top: 12px;
@@ -7526,11 +7531,15 @@ img.react-parallax-bgimage {
   visibility: hidden;
   right: 29px;
   z-index: -10; }
-
+.close-menu .closeTrigger i{
+  color: var(--color-secondary) !important;
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area.header-style-two .header-wrapper {
     padding: 30px 0; } }
-
+.humberger-menu .menutrigger{
+  color: white !important;
+}
 @media only screen and (max-width: 767px) {
   .header-area.header-style-two .header-wrapper {
     padding: 15px 0; } }
@@ -7670,12 +7679,12 @@ Mainmenu Area
     width: 320px;
     z-index: 999;
     position: absolute;
-    background-color: #fff;
+    background-color: #1b47599b;
     height: 100%;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    box-shadow: 0 0 10px 0 rgba(149, 161, 158, 0.7);
+    box-shadow: 0 0 10px 0 #6496ac91;
     opacity: 0;
     left: -150px;
     transition: all .5s ease-out; }
@@ -9930,7 +9939,6 @@ Personal Portfolio
       width: 100%;
       height: 100%;
       top: 0;
-      background: #ffffff;
       opacity: 0.5; } }
 
 .btn-hire {
